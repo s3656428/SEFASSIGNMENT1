@@ -3,6 +3,6 @@
 Contribution Percentage<br><br>
 
 Daniel Hoogstra<br>
-Joel Ridly<br>
+Joel Ridley<br>
 William Gould<br>
 Minh Vuong Yen Do<br>
