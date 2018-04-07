@@ -1,8 +1,8 @@
 # SEFASSIGNMENT1
 
-Contribution Percentage
+Contribution Percentage<br><br>
 
-Daniel Hoogstra
-Joel Ridly
-William Gould
-Minh Vuong Yen Do
+Daniel Hoogstra<br>
+Joel Ridly<br>
+William Gould<br>
+Minh Vuong Yen Do<br>
