@@ -1,6 +1,6 @@
 # SEFASSIGNMENT1
 
-Contribution Percentage<br><br>
+Contribution <br><br>
 
 Daniel Hoogstra<br>
 Joel Ridley<br>
