@@ -4,5 +4,5 @@ Contribution <br><br>
 
 Daniel Hoogstra - 25%<br>
 Joel Ridley<br>
-William Gould<br>
+William Gould: 15% Questionnare, class diagram, setupSemester()<br>
 Minh Vuong Yen Do:Purpose, Product scope,Product perspective, Questionnaire, Interview notes, Functional requirement, Non-functional requirements, Use case diagram, Class diagrams, Made all classes, Implemented register()
