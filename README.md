@@ -1,6 +1,6 @@
 # SEFASSIGNMENT1
 
-Contribution <br><br>
+Contributions <br><br>
 
 <b>Daniel Hoogstra</b> - 25% (Questionnaire, Transcription, UCD, Class Diagram, Object Diagram, viewStaffList function)<br><br>
 <b>Joel Ridley</b> - 15% (Questionaire, UCD, Class Diagram, Implemented requestResources())<br><br>
