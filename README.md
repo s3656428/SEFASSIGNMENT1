@@ -1,7 +1,7 @@
 # SEFASSIGNMENT1
 HRSystem is final code.
-JUnit test: <br>-confirmAvailability - Daniel
-           <br>-register - Minh
+JUnit test: <br>-confirmAvailability() - Daniel
+           <br>-register() - Minh
 
 Contributions <br><br>
 
